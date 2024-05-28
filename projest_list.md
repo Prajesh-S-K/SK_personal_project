@@ -10,5 +10,5 @@
 
 | ID.no | Syntax | Description | Citation |
 | ----- | ----------- | ----------- | -------- |
-| 001.00 | begin [here](001.00/) | Title | --- |
+| 001.00 | [begin](001.00/) | Title | --- |
 | ----- | Paragraph | Text | -- |
