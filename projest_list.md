@@ -6,7 +6,9 @@
 
 > python 
 
-| ID.no | Syntax | Description |
-| ----- | ----------- | ----------- |
-| 001.00 | Header | Title |
-| ----- | Paragraph | Text |q
+## Projects :
+
+| ID.no | Syntax | Description | Citation |
+| ----- | ----------- | ----------- | -------- |
+| 001.00 | Header | Title | --- |
+| ----- | Paragraph | Text | -- |
